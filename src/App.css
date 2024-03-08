@@ -1,0 +1,10 @@
+
+img{
+  width: 100px;
+  height: 100px;
+}
+
+.top{
+  display: flex;
+  gap: 5px;
+}
